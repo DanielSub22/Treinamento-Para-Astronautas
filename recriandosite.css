@@ -1,0 +1,23 @@
+h1{
+    color: aliceblue;
+}
+body{
+    background-color: #2c3e50;
+}
+h3{
+    color: #f1c40f;
+}
+h2{
+    background-color: #f1c40f;
+}
+
+#white-text{
+    color: aliceblue;
+}
+#astronomy-class{
+    color: #e74c3c;
+}
+.white-text{
+    color: aliceblue;
+}
+/* prefixo "." para class e # para id */
